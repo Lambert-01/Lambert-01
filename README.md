@@ -10,8 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I’m a **final-year Applied Mathematics student** at the University of Rwanda  
-- 🤖 Passionate about **AI, Data Science, and Educational Technology**  
-- 🚀 Founder of **EduAI Rwanda** – transforming learning through AI  
+- 🤖 Passionate about **AI, Data Science, and Educational Technology**   
 - 💡 Building solutions like:
   - 📚 AI-powered learning platforms  
   - 🏪 Stock Management Systems (RRA EBM V2 compliant)  
